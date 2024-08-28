@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+  text-decoration: underline;
+}
+body {
+  background-color: black;
+  color: white;
+}
+.juty {
+  display: flex;
+  justify-content: center;
+}
